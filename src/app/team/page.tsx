@@ -103,7 +103,7 @@ export default function TeamPage() {
                    <img
                    src={member.photo}
                    alt={member.name}
-  className="w-full h-full object-cover object-[center_20%]"
+                  className="w-full h-full object-cover object-[center_20%]"
                    />
                   </div>
 

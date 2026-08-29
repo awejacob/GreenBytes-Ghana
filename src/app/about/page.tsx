@@ -50,7 +50,7 @@ export default function AboutPage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <Image
-                  src="/images/hero-rabbits.jpg"
+                  src="/rab1.jpg"
                   alt="Healthy rabbits on a Ghanaian farm"
                   fill
                   className="object-cover"
@@ -131,7 +131,7 @@ export default function AboutPage() {
             </div>
             <div className="relative rounded-2xl overflow-hidden shadow-xl min-h-[300px]">
               <Image
-                src="/images/hydroponic.jpg"
+                src="/hydro.jpg"
                 alt="Hydroponic fodder production for climate-smart rabbit feed"
                 fill
                 className="object-cover"

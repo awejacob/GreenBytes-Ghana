@@ -171,7 +171,7 @@ export default function HomePage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hero-rabbits.jpg"
+            src="/bytes.jpeg"
             alt="Healthy rabbits on a sustainable farm in Ghana"
             fill
             className="object-cover"
@@ -285,7 +285,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <Image
-                  src="/images/farmer.jpg"
+                  src="/bag1.jpeg"
                   alt="Ghanaian farmer with healthy rabbits"
                   fill
                   className="object-cover"
@@ -387,7 +387,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <Image
-                  src="/images/rabbit-feed.jpg"
+                  src="/gbytes.jpg"
                   alt="GreenBytes Ghana organic rabbit feed pellets"
                   fill
                   className="object-cover"

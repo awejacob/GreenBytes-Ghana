@@ -49,7 +49,7 @@ export default function SolutionPage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <Image
-                  src="/images/rabbit-feed.jpg"
+                  src="/bag2.jpg"
                   alt="GreenBytes Ghana organic climate-smart rabbit feed pellets"
                   fill
                   className="object-cover"
