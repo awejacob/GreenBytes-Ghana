@@ -87,8 +87,8 @@ export default function ContactPage() {
                 <div className="space-y-3">
                   {[
                     { number: "0558 487 942", href: "tel:+233558487942" },
-                    { number: "0549 826 870", href: "tel:+233549826870" },
-                    { number: "0270 661 478", href: "tel:+233270661478" },
+                    { number: "0551 143 980", href: "tel:+233551143980" },
+                    { number: "0555 737 098", href: "tel:+233555737098" },
                   ].map((phone) => (
                     <a
                       key={phone.number}
