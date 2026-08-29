@@ -387,7 +387,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <Image
-                  src="/gbytes.jpg"
+                  src="/b-bytes.jpg"
                   alt="GreenBytes Ghana organic rabbit feed pellets"
                   fill
                   className="object-cover"

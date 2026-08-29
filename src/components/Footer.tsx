@@ -13,7 +13,7 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-4">
               <div className="relative w-12 h-12">
                 <Image
-                  src="/logo-white.png"
+                  src="/gb-logo.jpg"
                   alt="GreenBytes Ghana logo"
                   fill
                   className="object-contain"
